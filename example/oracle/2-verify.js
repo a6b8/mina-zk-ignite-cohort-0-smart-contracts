@@ -86,7 +86,7 @@ class OracleExample extends aggregation( EasyMina, Deploy, Verify, Listen ) {
                 },
                 'ngrok': {
                     'publicKey': '',
-                    'server': 'https://9ac2-2001-9e8-150f-3300-b563-8c55-4dbc-29d7.ngrok.io/',
+                    'server': 'https://jellyfish-app-iig6c.ondigitalocean.app/',
                     'challenge': 'challenge/{{seed}}',
                     'standings': 'getStandings/'
                 }
